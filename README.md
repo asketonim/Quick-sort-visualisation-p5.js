@@ -1,1 +1,1 @@
-# Quick-sort-visualisation-p5.js
+# Quicksort algorithm visualization
